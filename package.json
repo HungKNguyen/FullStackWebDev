@@ -1,0 +1,23 @@
+{
+  "name": "fullstackwebdev",
+  "version": "1.0.0",
+  "description": "Test for full stack web course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungKNguyen/FullStackWebDev.git"
+  },
+  "author": "Hung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungKNguyen/FullStackWebDev/issues"
+  },
+  "homepage": "https://github.com/HungKNguyen/FullStackWebDev#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
