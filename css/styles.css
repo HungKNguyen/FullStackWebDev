@@ -7,7 +7,6 @@
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    /* min-height: 400px; */
 }
 
 .footer {
@@ -36,9 +35,4 @@ body {
 
 .navbar-dark {
     background-color: #512DA8;
-}
-
-.form-group {
-    margin-bottom: 10px;
-    align-content: center;
 }
