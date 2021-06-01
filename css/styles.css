@@ -37,3 +37,8 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.form-group {
+    margin-bottom: 10px;
+    align-content: center;
+}
